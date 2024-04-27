@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ruppalapati0
-- 👀 I’m interested in Automation
-- 💞️ I’m looking to collaborate on things related AI/Automation
-
+- 👋This is for Microsoft AI-102 code base in Perl
 <!---
-Is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+The plan is to create list of API calls that you can run from your home computer to the end point created in microsoft.
 --->
